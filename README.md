@@ -1,5 +1,3 @@
 # oasis
 
-This repo is for testing of ibm-ci-bot.
-
-You can raise issue or pull requests.
+This repo is for testing of ibm-ci-bot, you are free to raise issue or pull requests.
